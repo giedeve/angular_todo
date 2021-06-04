@@ -7,7 +7,7 @@
     },
     {
       "title": "odebrać dzieci i następni pojechać z nimi na pizzę oraz kupić kwiatki dla babci",
-      "completed": false,
+      "completed": true,
       "id": 2
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "title": "załatwić multisport",
-      "completed": false,
+      "completed": true,
       "id": 6
     },
     {

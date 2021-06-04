@@ -12,4 +12,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 6) enjoy!
 
 ## GENERAL PROJECT
-
+https://user-images.githubusercontent.com/52422488/120867390-1dc0be00-c592-11eb-8832-4e016afe43fe.mov

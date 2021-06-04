@@ -10,7 +10,7 @@ const headers = { "content-type": "application/json" };
 })
 export class TodoService {
   url: string = "http://localhost:3000/todos";
-  limit = "?_limit=7";
+  limit = "?_limit=20";
 
   constructor(private http: HttpClient) {}
 

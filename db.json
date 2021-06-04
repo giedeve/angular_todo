@@ -1,3 +1,39 @@
 {
-  "todos": []
+  "todos": [
+    {
+      "title": "umyć auto",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "odebrać dzieci i następni pojechać z nimi na pizzę oraz kupić kwiatki dla babci",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "wysłać CV do Google",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "kupić mieszkanie w Nowym Jorku na Manhattanie",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "założyć konto na Tinder",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "załatwić multisport",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "szczepienie - 5 dawka 23.06.2022",
+      "completed": false,
+      "id": 7
+    }
+  ]
 }
